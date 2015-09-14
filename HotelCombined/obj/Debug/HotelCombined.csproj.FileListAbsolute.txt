@@ -1,0 +1,6 @@
+F:\GitHub\HotelCombined\HotelCombined\bin\Debug\HotelCombined.exe.config
+F:\GitHub\HotelCombined\HotelCombined\bin\Debug\HotelCombined.exe
+F:\GitHub\HotelCombined\HotelCombined\bin\Debug\HotelCombined.pdb
+F:\GitHub\HotelCombined\HotelCombined\obj\Debug\HotelCombined.csprojResolveAssemblyReference.cache
+F:\GitHub\HotelCombined\HotelCombined\obj\Debug\HotelCombined.exe
+F:\GitHub\HotelCombined\HotelCombined\obj\Debug\HotelCombined.pdb
